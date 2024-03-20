@@ -3,10 +3,6 @@
 
 <h3>Introduction</h3></h1>
 
-#### Join us in [ChatBot Community Ltd.](https://www.facebook.com/groups/178711334798450/?ref=share)🍪
-###### If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. Our team is here to help you with any problems you may face.
-###### Want more commands? Join our group now and discover new and cool commands. All provided for FREE! Created by hundreds of creators from our great bot community!
-
 [<img align="center" src="https://i.ibb.co/khSZZPL/IMG-20230730-074956.jpg">](https://www.facebook.com/groups/178711334798450/?ref=share)
 <h1></h1>
 
@@ -35,12 +31,6 @@
   <summary>Languages</summary>
   
 > - en = English-US 
-> - vi = Vietnamese 
-> - tl = Tagalog 
-> - cb = Bisaya/Cebuano
-> - bd = Bengali 
-> - ar = Arabic
-
 Go to your config.json and set it in the language property:
 ```json
 {
@@ -63,16 +53,6 @@ Go to your config.json and set it in the language property:
 
 - Embrace the world of possibilities with [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 - a facebook Messenger file designed to make your interaction with messenger bots smoother and more efficient.
 ---
-<div align="center">
-      <h3>My Replit Account:
-      <a href="https://replit.com/@YanMaglinte" style="color: green;"><br>@YanMaglinte🔥</a>
-        <br>
-  My Facebook Account:
-  <a href="https://www.facebook.com/yandeva.me?mibextid=b06tZ0" style="color: green;"><br>Yan🚀</a></h3></div>
-
-- If you encounter any issues or have questions related to this REPL, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
-
-<img align="center" src="https://i.ibb.co/z4d9ttK/Screenshot-2024-01-25-06-40-30-01-a23b203fd3aafc6dcb84e438dda678b6.jpg"/>
 
 ## **How to Start Using BotPack?**
 1. Begin by navigating to [Replit](https://replit.com).
